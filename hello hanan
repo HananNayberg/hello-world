@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  <!DOCTYPE html>
  <html lang="en">
 
@@ -17,3 +18,26 @@
  </body>
 
  </html>
+=======
+ <!DOCTYPE html>
+ <html lang="en">
+
+<head>
+     <meta charset="UTF-8">
+     <title>TITLE</title>
+     <meta name="description" content="DESCRIPTION">
+    <link rel="stylesheet" href="PATH">
+
+     <!--[if lt IE 9]>
+       <script src = "http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+     <![endif]-->
+ </head>
+
+ <body>
+  <h2>Hello Github and hello World</h2>
+  <h3>how is everyone doing?</h3>
+  <h3>another change</h3>
+ </body>
+
+ </html>
+>>>>>>> 64acc49d448c8dedda363495404661ab46561af1
